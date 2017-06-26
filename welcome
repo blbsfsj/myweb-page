@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Welcome to my webpage</title>
+    <meta charset="utf-8">
+    <meta http-equive="Content-type" content="text/html">
+  </head>
+  <body>
+    <h1>Welcome to my webpage for this time</h1>
+    <p>For this paragraf,I will show nothing for you,hahaha ,you comming and kitting me </p>
+    <h2>For sell something</h2>
+    <img src=""><a href="www.google.com">point it</a>
+    <p>this is an apple for sell  in china</p>
+    <p>the price:$99.98</p>
+    <p>the weight:111.12kg</p>
+  </body>
+  <footer></footer>
+</html>
